@@ -25,7 +25,7 @@ Run the following command:
 python3.5 RANSAC.py --DataPath <path_to_csv_file> --k <number_of_iterations> --t <threshold_value> --d <minimum_number_of_inliers>
 ```
 
-##Singular Value Decomposition
+## Singular Value Decomposition
 
 Run the following command:
 
