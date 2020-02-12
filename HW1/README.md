@@ -24,6 +24,7 @@ Run the following command:
 ```
 python3.5 RANSAC.py --DataPath <path_to_csv_file> --k <number_of_iterations> --t <threshold_value> --d <minimum_number_of_inliers>
 ```
+The best fitting curve is displayed on the screen and saved in the Results folder.
 
 ## Singular Value Decomposition
 
