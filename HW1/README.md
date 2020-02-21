@@ -13,6 +13,7 @@ The best fitting curve is displayed on the screen and saved in the Results folde
 
 ## RANSAC
 
+
 The python script RANSAC.py accepts the following parameters:
 
 1. DataPath - path to the csv file containing the data set (Default value = /home/akanksha/Documents/ENPM673/apatel44_hw1/data_2.csv)
